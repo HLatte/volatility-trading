@@ -1,5 +1,6 @@
 
-from volatility import volest
+#from volatility import volest
+from volest.py import volest
 import yfinance as yf
 
 # data
