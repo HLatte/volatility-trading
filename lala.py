@@ -1,3 +1,5 @@
+# site: https://github.com/jasonstrimpel/volatility-trading
+#
 from setuptools import setup
 
 setup(
